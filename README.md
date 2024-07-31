@@ -2,4 +2,4 @@
 This is my first Git repository
 <br>
 <br>
-Author - Shardha Khapra mam
+Author - Shardha Khapra mam (from Apna college)
